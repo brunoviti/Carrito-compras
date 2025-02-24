@@ -2,7 +2,13 @@ html {
     font-size: 62.5%;
 }
 body {
-    background-color: #f5f3f3
+    background-color: #808000; /* Verde oliva */
+    color: #d4af37; /* Dorado */
+    text-shadow: 2px 2px 4px #555555; /* Sombra gris metálico */
+}
+h1, h2, h4, p, a {
+    color: #d4af37; /* Dorado */
+    text-shadow: 2px 2px 4px #555555; /* Sombra gris metálico */
 }
 h1 {
     text-align: center;
@@ -37,7 +43,7 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image:url(../img/hero.jpg);
+    background-image: linear-gradient(to bottom, #556b2f, #808000), url(../img/hero.jpg); /* Efecto verde militar más oscuro */
     height: 350px;
     background-size: cover;
 }
