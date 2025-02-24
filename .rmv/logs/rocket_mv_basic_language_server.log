@@ -69,3 +69,4 @@ Account{name=.git, path=C:/Users/bruno/git-y-github/Carrito-compras/Carrito-comp
 Account{name=remotes, path=C:/Users/bruno/git-y-github/Carrito-compras/Carrito-compras/.git/refs/remotes, type=PREDICT}
 2025-02-24 11:52:15.527 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010105]load account manager finish
 2025-02-24 11:52:15.533 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.userspace.UserspaceManager - [framework:30010402]config file(C:\Users\bruno/.rmv/config) watcher launch successful
+2025-02-24 11:53:10.554 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/bruno/git-y-github/Carrito-compras/Carrito-compras/.git)
