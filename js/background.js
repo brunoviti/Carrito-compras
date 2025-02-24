@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const body = document.body;
-    let colors = ['#ff9999', '#66b3ff', '#99ff99', '#ffcc99'];
+    let colors = ['#00ff00']; // Change to green
     let currentIndex = 0;
 
     function changeBackground() {
